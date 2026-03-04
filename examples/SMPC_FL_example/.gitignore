@@ -1,7 +1,5 @@
-__pycache__/
 __pycache__/*
 *.py[cod]
-
 *.pyc
 __pycache__/
 *.egg-info/
@@ -9,5 +7,4 @@ __pycache__/
 .gitignore
 *.sh
 metrics*.jpg
-normal_fl/
 .pylintrc
